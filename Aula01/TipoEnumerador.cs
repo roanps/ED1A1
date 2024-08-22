@@ -13,7 +13,16 @@ namespace Aula01
 
         public Language _language =  Language.PTBR;
 
-        public Language GetLanguageEnum(string lang)
+        public TipoEnumerador()
+        {}
+
+        /*
+        public TipoEnumerador(TipoEnumerador enum)
+        {
+            _language = enum;
+        }
+        */
+        public Language GetLanguageEnum(String lang)
         {
             switch(lang.ToLower())
             {
