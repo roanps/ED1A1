@@ -3,21 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace 
-{
-    public class TipoEnumerador
-    {
-        using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Aula01
 {
     public class TipoEnumerador
     {
         public enum Language{
-            PT-BR, EN, RU
+            PTBR, EN, RU
         }   
 
         public Language _language =  Language.PTBR;
@@ -36,7 +27,5 @@ namespace Aula01
                     return Language.PTBR;
             }
         }
-    }
-}
     }
 }
