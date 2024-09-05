@@ -1,0 +1,14 @@
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\bin\Debug\net8.0\Multidimensiona.exe
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\bin\Debug\net8.0\Multidimensiona.deps.json
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\bin\Debug\net8.0\Multidimensiona.runtimeconfig.json
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\bin\Debug\net8.0\Multidimensiona.dll
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\bin\Debug\net8.0\Multidimensiona.pdb
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.AssemblyInfoInputs.cache
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.AssemblyInfo.cs
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.csproj.CoreCompileInputs.cache
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.dll
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\refint\Multidimensiona.dll
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.pdb
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\Multidimensiona.genruntimeconfig.cache
+C:\Users\371153\Documents\Roan\Atv4\Multidimensiona\obj\Debug\net8.0\ref\Multidimensiona.dll
