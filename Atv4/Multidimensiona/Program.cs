@@ -41,4 +41,4 @@ for(i = 0; i<5; i++){
     }
 }
 
-Console.WriteLine($" Valor maior eh {maior}, está na posição {posI},{posJ}");
+Console.WriteLine($" O valor maior eh {maior}, está na posição {posI},{posJ}");

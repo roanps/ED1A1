@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\371153\\Documents\\Roan\\Atv4\\Jaggedarray\\Jaggedarray.csproj",
+      "projectUniqueName": "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\Jaggedarray\\Jaggedarray.csproj",
       "projectName": "Jaggedarray",
-      "projectPath": "C:\\Users\\371153\\Documents\\Roan\\Atv4\\Jaggedarray\\Jaggedarray.csproj",
+      "projectPath": "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\Jaggedarray\\Jaggedarray.csproj",
       "packagesPath": "C:\\Users\\371153\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\371153\\Documents\\Roan\\Atv4\\Jaggedarray\\obj\\",
+      "outputPath": "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\Jaggedarray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

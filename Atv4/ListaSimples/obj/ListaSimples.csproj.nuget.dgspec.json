@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\371153\\Documents\\Roan\\Atv4\\listasimples\\ListaSimples.csproj": {}
+    "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\listasimples\\ListaSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\371153\\Documents\\Roan\\Atv4\\listasimples\\ListaSimples.csproj": {
+    "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\listasimples\\ListaSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\371153\\Documents\\Roan\\Atv4\\listasimples\\ListaSimples.csproj",
+        "projectUniqueName": "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\listasimples\\ListaSimples.csproj",
         "projectName": "ListaSimples",
-        "projectPath": "C:\\Users\\371153\\Documents\\Roan\\Atv4\\listasimples\\ListaSimples.csproj",
+        "projectPath": "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\listasimples\\ListaSimples.csproj",
         "packagesPath": "C:\\Users\\371153\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\371153\\Documents\\Roan\\Atv4\\listasimples\\obj\\",
+        "outputPath": "C:\\Users\\371153\\Downloads\\1109\\ED1A1\\Atv4\\listasimples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

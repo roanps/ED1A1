@@ -52,7 +52,7 @@ if(!contemNome)
 
 int indiceDoValor = arrList.IndexOf("Mauricio");
 if(indiceDoValor >= 0)
-    Console.WriteLine($"Mauricio esta em [{indiceDoValor}]");
+    Console.WriteLine($" O Mauricio esta em [{indiceDoValor}]");
 else
     Console.WriteLine("É, realmente não tem");
 

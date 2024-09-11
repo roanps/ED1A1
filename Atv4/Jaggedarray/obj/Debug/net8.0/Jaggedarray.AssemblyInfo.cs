@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jaggedarray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04db29e28a19bd8f56b152770718211a64f79eb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jaggedarray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jaggedarray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
