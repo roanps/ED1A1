@@ -1,6 +1,6 @@
 ﻿// Basicamente as pilhas trabalham com uma 
 // estrutura LIFO -> Las In First Out
-// Três ,étodos importantes
+// Três métodos importantes
 // Push() -> Insere um elemento no topo da pilha
 // Pop() -> Remove um elemento do topo e o retorna
 // Peek() -> Retorna o elemento do topo sem removelo
