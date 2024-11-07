@@ -1,0 +1,8 @@
+git status
+git add . //adicionar arquivos ao rastreio
+git commit -m "Commit"
+git checkout -b "NomeNovaBranch" //trocar e cruar branch
+git checkoutNomeBranch //trocar oara branch existente
+git pull origin nomebranch
+git push origin nomebranch
+git remote -v  //mostrar os repositorios remotos
